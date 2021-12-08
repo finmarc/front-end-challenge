@@ -1,6 +1,6 @@
 # Desafio de Front-End
 
-## Finmarc
+## iFinmarc
 
 O sistema consiste em uma hotpage para a empresa fictícia iFinmarc
 
