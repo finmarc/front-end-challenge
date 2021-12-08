@@ -2,7 +2,7 @@
 
 ## iFinmarc
 
-O sistema consiste em uma hotpage para a empresa fictícia iFinmarc
+O sistema consiste em uma Home page para a empresa fictícia iFinmarc
 
 Será um diferencial realizar o desenvolvimento usando [React](https://pt-br.reactjs.org/) e [chakra-ui.js](https://chakra-ui.com/), pois é a biblioteca que mais usamos na empresa. Também serão aceitos UI desenvolvidos com [styled-component.js](https://www.styled-components.com/) ou sem uso de um framework específico, mas com as funcionalidades desenvolvidas utilizando JavaScript.
 
