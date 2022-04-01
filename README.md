@@ -1,5 +1,5 @@
 <h1 align="center" > 
-  <img src="https://github.com/finmarc/front-end-challenge/blob/master/screenshot/ifinmarc.png" width="600"/>
+  <img src="https://github.com/finmarc/front-end-challenge/blob/main/screenshot/ifinmarc.png" width="600"/>
 </h1>
 
 # Desafio de Front-End ReactJS
