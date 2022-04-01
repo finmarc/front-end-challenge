@@ -12,7 +12,7 @@ Será um diferencial realizar o desenvolvimento usando [React](https://pt-br.rea
 
 ## Figma
 
-Use as telas do [figma](https://www.figma.com/file/finmarc/iFinmarc) para se guiar no desenvolvimento.
+Use as telas do [figma](https://www.figma.com/file/1rASB3TBtpLKl0b2s4UsIr/iFinmarc?node-id=0%3A1) para se guiar no desenvolvimento.
 
 ## Observações
 
